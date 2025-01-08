@@ -49,11 +49,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/VinayKora/VinayKora/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
@@ -65,6 +60,6 @@
 
 <br clear="both">
 
-<h3 align="center">Connect With Me</h3>
+<h3 align="center">  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=koravinay123@gmail.com" target="_blank">Connect With Me</a></h3>
 
 ###
